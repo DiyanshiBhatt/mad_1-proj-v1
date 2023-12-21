@@ -1,1 +1,2 @@
-# mad_1-proj-v1
+language= "python3"
+run = "python app.py"
